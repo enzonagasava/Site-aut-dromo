@@ -1,0 +1,47 @@
+.navbar {
+    background-color: black;
+}
+
+.nav-item a,
+.navbar h1 {
+    color: #fff;
+}
+
+.nav-item a:hover {
+    color: rgb(230, 230, 230);
+}
+
+.text-colored {
+    color: black;
+}
+
+.social-links {
+    list-style: none;
+}
+
+#mensagem {
+    resize: none;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: red;
+}
+
+.nav-link:hover {
+    color: rgb(179, 0, 0);
+}
+
+.navbar-toggler {
+    background-color: beige;
+}
+
+section {
+    padding-top: 100px;
+}
+
+header {
+    position:sticky;
+    top: 0;
+    left:0;
+    z-index: 1000;
+}
